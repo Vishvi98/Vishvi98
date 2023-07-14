@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishvi De Silva</h1>
-<h3 align="center">I am a Software Engineering undergraduate student seeking an internship opportunity in UI/UX, Frontend Development, or Project Management related roles.</h3>
+<h3 align="center">I am a Software Engineering undergraduate student seeking an internship opportunity in Software Quality Assurance, Business Analyst or Project Management related roles.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishvi98&label=Profile%20views&color=0e75b6&style=flat" alt="vishvi98" /> </p>
 
