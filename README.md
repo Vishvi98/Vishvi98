@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **PetVet Service**
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Javascript,css,html,java**
+- 💬 Ask me about **Java,MySQL**
 
 - 📫 How to reach me **vishvidesilva@gmail.com**
 
