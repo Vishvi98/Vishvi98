@@ -5,11 +5,11 @@
 
 
 
-- 🔭 I’m currently working on **PetVet Service**
+- 🔭 I’m currently working on **Blockchain-Based Smart Paddy Cultivation & Harvest Management System**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Selenium**
 
-- 💬 Ask me about **Java,MySQL**
+- 💬 Ask me about **Software Testing**
 
 - 📫 How to reach me **vishvidesilva@gmail.com**
 
