@@ -1,36 +1,30 @@
-<h1 align="center">Hi 👋, I'm Vishvi De Silva</h1>
-<h3 align="center">I am a Software Engineering undergraduate student seeking an internship opportunity in Software Quality Assurance.</h3>
+# Hey, I'm Vishvi De Silva! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishvi98&label=Profile%20views&color=0e75b6&style=flat" alt="vishvi98" /> </p>
+I'm a **Software Engineering graduate** with a strong passion for  **software testing**. I’m currently diving deep into **automation testing** with **Selenium** (using **Java**).
+
+My journey in software development has provided me with a strong foundation for creating scalable and efficient solutions. I’m passionate about both manual and automation testing, with a solid understanding of the Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC). This combination of skills enables me to ensure that quality is embedded at every stage of the development process, from initial planning to deployment
+
+## 🔧 What I’m Working With:
+- **Java**: My go-to language for development and test automation.
+- **Selenium**: Automating web application tests and continuously improving my skills.
+- **Postman**: Automating API tests and learning the ins and outs of efficient API testing.
+- **MySQL**: Working with databases to validate and test backend systems.
+- **Jira**: Organizing my projects and tasks to stay on top of everything.
+
+## 🚀 What I’m All About:
+- Growing my expertise in **Selenium** for web automation testing.
+- Getting better with **Postman** for API testing and integration.
+- Applying my **software development experience** to create scalable and high-performing systems.
+- Learning about **CI/CD pipelines** and how to automate testing for continuous delivery.
+
+## 💻 Projects & Learning:
+I’m actively practicing with **Selenium** and **Postman** through various learning exercises. I share my progress, challenges, and lessons along the way. As I build up my experience, I look forward to contributing more to open-source projects and growing my skillset.
+
+## 📬 Let’s Connect!
+- **Email**: vishvidesilva@gmail.com
+- **LinkedIn**: www.linkedin.com/in/vishvi-de-silva
+
+Feel free to explore my repositories, follow along with my progress, or reach out if you want to chat about software testing, development, or anything tech-related! I’m always up for learning, sharing ideas, and collaborating. 😊
 
 
-
-- 🌱 I’m currently learning **Selenium**
-
-- 💬 Ask me about **Software Testing**
-
-- 📫 How to reach me **vishvidesilva@gmail.com**
-
-- ⚡ Fun fact **Sometimes I talk with my dog.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vishvi-de-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishvi-de-silva" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/SeleniumHQ/selenium/master/selenium-logo.png" alt="selenium" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-</p>
-
+   
