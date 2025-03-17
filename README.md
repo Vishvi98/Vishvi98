@@ -1,4 +1,3 @@
-
 Hey there! I'm Vishvi De Silva 👋
 I’m a Software Engineering graduate transitioning into a Business Analyst role in the IT industry. With a background in software development and testing, I have a strong analytical mindset and a keen interest in problem-solving, process optimization, and bridging the gap between business and technology.
 
